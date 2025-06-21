@@ -12,12 +12,14 @@ Atualmente venho desenvolvendo projetos, relatórios técnicos e aprimorando meu
 
 ## 🛠️ Habilidades Técnicas  
 **Linguagens**: Python, HTML, JavaScript  
+
 **Segurança da Informação**: 
 - Segurança de redes  
 - Firewalls e filtragem de pacotes  
 - Análise de vulnerabilidades e logs  
 - Frameworks: NIST CSF, NIST RMF  
-- Conformidade e boas práticas de resposta a incidentes  
+- Conformidade e boas práticas de resposta a incidentes
+  
 **Ferramentas**: Git, GitHub, Linux, VSCode, AWS...
 
 ---
