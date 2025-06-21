@@ -1,6 +1,6 @@
 # Mathias Petry Peixoto 🔐💻  
 *Estudante de Sistemas de Informação na UFSC*  
-Cibersegurança · Python · Computação em Nuvem · Resposta a Incidentes
+Cibersegurança · Computação em Nuvem · Python
 
 ---
 
