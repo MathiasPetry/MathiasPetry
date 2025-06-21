@@ -19,8 +19,11 @@ Atualmente venho desenvolvendo projetos, relatórios técnicos e aprimorando meu
 - Análise de vulnerabilidades e logs  
 - Frameworks: NIST CSF, NIST RMF  
 - Conformidade e boas práticas de resposta a incidentes
+
+**Computação em Nuvem**:
+- AWS
   
-**Ferramentas**: Git, GitHub, Linux, VSCode, AWS...
+**Ferramentas**: Git, GitHub, Linux, VSCode...
 
 ---
 
