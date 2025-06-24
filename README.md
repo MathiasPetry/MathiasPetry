@@ -36,7 +36,7 @@ Universidade Federal de Santa Catarina (UFSC)
 ## 📂 Projetos em destaque  
 - [🔎 ICMP Flood – Relatório de Incidente](https://github.com/MathiasPetry/relatorio-de-incidente-ddos-attack)  
   Relatório técnico usando o framework NIST CSF, feito como parte do programa de Cibersegurança do Google
-- [🔐 Permissões para arquivos no Linux](File permissions in Linux.pdf)  
+- [🔐 Permissões para arquivos no Linux](https://github.com/MathiasPetry/PermissoesdeArquivoLinux)  
   Demonstração prática de domínio do terminal Linux, com verificação e alteração de permissões em arquivos e diretórios.  
   Atividade desenvolvida como parte do programa de Cibersegurança do Google.
   
