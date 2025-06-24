@@ -5,7 +5,7 @@ Cibersegurança · Computação em Nuvem · Python
 ---
 
 ## 🧠 Sobre mim  
-Sou estudante de Sistemas de Informação na UFSC, com grande interesse em **cibersegurança, programação back-end com Python e computação em nuvem**.  
+Sou estudante de Sistemas de Informação na UFSC, com grande interesse em **cibersegurança, programação com Python e computação em nuvem**.  
 Atualmente venho desenvolvendo projetos, relatórios técnicos e aprimorando meus conhecimentos por meio de cursos, laboratórios práticos e certificações.
 
 ---
