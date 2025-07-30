@@ -11,7 +11,7 @@ Atualmente venho desenvolvendo projetos, relatórios técnicos e aprimorando meu
 ---
 
 ## 🛠️ Habilidades Técnicas  
-**Linguagens**: Python, Java Script, HTML  
+**Linguagens**: Python, JavaScript, HTML  
 
 **Segurança da Informação**: 
 - Segurança de redes  
