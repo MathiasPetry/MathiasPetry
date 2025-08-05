@@ -51,4 +51,4 @@ Universidade Federal de Santa Catarina (UFSC)
 
 ---
 
-> **"Saber explicar um problema com clareza e responsabilidade pode ser tão importante quanto resolvê-lo."**
+> **"Saber explicar bem um problema, com clareza e responsabilidade, é quase tão importante quanto saber resolvê-lo."**
