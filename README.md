@@ -33,7 +33,8 @@ Universidade Federal de Santa Catarina (UFSC)
 
 ---
 
-## 📂 Projetos em destaque  
+## 📂 Projetos em destaque 
+- [🛜 Verificador de IPv4 - Obtenha informações relevantes sobre um IP](https://github.com/MathiasPetry/Verificador_de_IPv4)
 - [🔎 ICMP Flood – Relatório de Incidente](https://github.com/MathiasPetry/relatorio-de-incidente-ddos-attack)  
   Relatório técnico usando o framework NIST CSF, feito como parte do programa de Cibersegurança do Google
 - [🔐 Permissões para arquivos no Linux](https://github.com/MathiasPetry/PermissoesArquivosLinux)  
