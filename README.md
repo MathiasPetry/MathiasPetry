@@ -23,7 +23,7 @@ Atualmente venho desenvolvendo projetos, relatórios técnicos e aprimorando meu
 **Computação em Nuvem**:
 - AWS
   
-**Ferramentas**: Git, GitHub, Linux, VSCode...
+**Ferramentas**: Git, Linux, OpenSSL
 
 ---
 
