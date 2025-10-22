@@ -5,8 +5,7 @@ Cibersegurança · Desenvolvimento Back-end · Computação em Nuvem
 ---
 
 ## 🧠 Sobre mim  
-Sou estudante de Sistemas de Informação na UFSC, com um grande interesse pessoal pela área de segurança, desde desenvolvimento seguro até criptografia e tecnologias de blockchain.    
-Atualmente venho desenvolvendo projetos, relatórios técnicos e aprimorando meus conhecimentos por meio de cursos, laboratórios práticos e certificações.
+Sou estudante de Sistemas de Informação na UFSC, com um grande interesse pessoal pela área de segurança, desde desenvolvimento seguro até criptografia e tecnologias de blockchain. Atualmente venho desenvolvendo projetos, relatórios técnicos e aprimorando meus conhecimentos por meio de cursos, laboratórios práticos e certificações.
 
 ---
 
