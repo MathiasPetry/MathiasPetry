@@ -39,6 +39,8 @@ Universidade Federal de Santa Catarina (UFSC)
 - [🔐 Permissões para arquivos no Linux](https://github.com/MathiasPetry/PermissoesArquivosLinux)  
   Demonstração prática de domínio do terminal Linux, com verificação e alteração de permissões em arquivos e diretórios.  
   Atividade desenvolvida como parte do programa de Cibersegurança do Google.
+- [🛡️ Desafios set 01 Cryptopals - Aplicações clássicas de codificação e criptografia](https://github.com/MathiasPetry/DesafiosCryptopals)
+  
   
 
 
