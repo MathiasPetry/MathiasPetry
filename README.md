@@ -10,7 +10,7 @@ Sou estudante de Sistemas de Informação na UFSC, com um grande interesse pesso
 ---
 
 ## 🛠️ Habilidades Técnicas  
-**Linguagens**: Python, Go, JavaScript e HTML/CSS  
+**Linguagens**: Python, JavaScript e HTML/CSS  
 
 **Segurança da Informação**: 
 - Segurança de redes  
