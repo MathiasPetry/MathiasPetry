@@ -1,6 +1,6 @@
 # Mathias Petry Peixoto 🔐💻  
 *Estudante de Sistemas de Informação na UFSC*  
-Cibersegurança · Desenvolvimento Back-end · Computação em Nuvem
+Desenvolvimento Back-end · Segurança da informação · Computação em Nuvem (AWS)
 
 ---
 
@@ -10,13 +10,13 @@ Sou estudante de Sistemas de Informação na UFSC, com um grande interesse pesso
 ---
 
 ## 🛠️ Habilidades Técnicas  
-**Linguagens**: Python, JavaScript e HTML/CSS  
+**Linguagens**: Python e Java 
 
 **Segurança da Informação**: 
-- Segurança de redes  
+- Criptografia
 - Desenvolvimento seguro  
 - Análise de vulnerabilidades e logs  
-- Criptografia
+
 
 **Computação em Nuvem**:
 - AWS
