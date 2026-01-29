@@ -39,6 +39,9 @@ Universidade Federal de Santa Catarina (UFSC)
   Demonstração prática de domínio do terminal Linux, com verificação e alteração de permissões em arquivos e diretórios.  
   Atividade desenvolvida como parte do programa de Cibersegurança do Google.
 - [🛡️ Desafios set 01 Cryptopals - Aplicações clássicas de codificação e criptografia](https://github.com/MathiasPetry/DesafiosCryptopals)
+- [🚗📊 **HealthLevel** – Aplicativo Android para avaliação da "saúde" de veículos](https://github.com/MathiasPetry/healthLevelApp)  
+  App Android em Kotlin que calcula o HealthLevel de veículos elétricos, híbridos e a combustão, gerando um score (0–100) e alertas de manutenção.
+
   
   
 
