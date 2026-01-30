@@ -10,7 +10,7 @@ Sou estudante de Sistemas de Informação na UFSC, com um grande interesse pesso
 ---
 
 ## 🛠️ Habilidades Técnicas  
-**Linguagens**: Python e Java 
+**Linguagens**: Python Java e Kotlin
 
 **Segurança da Informação**: 
 - Criptografia
